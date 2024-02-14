@@ -15,6 +15,8 @@ The $\Phi(\phi)$ function is defined as:
 $\Phi(\phi) = \sqrt{\frac{2l+1}{4\pi}\frac{(l-m)!}{(l+m)!}} e^{im\phi}$
 
 
+Rendering 3D functions is very computationally expensive, if you have weaker hardware lower the `grid_resolution`.
+
 # **Images:**
 
 
